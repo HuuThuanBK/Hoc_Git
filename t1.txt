@@ -4,7 +4,3 @@ t2
 t1
 ||||||| merged common ancestors
 thuan t1
-=======
-thuan t1
-t2t3t4t
->>>>>>> t1
