@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 thuan
 t2
 t1
-||||||| merged common ancestors
-thuan t1
+t3
+
